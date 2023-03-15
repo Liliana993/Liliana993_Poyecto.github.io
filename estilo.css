@@ -273,7 +273,7 @@ letter-spacing: 2px;
 /*SECCION SKILLS*/
 
 .contenedor-skills{
-    background: linear-gradient(#af5aebcc, rgba(33,16,16,.8)), url('img/skills-foto.jpg');
+    background: linear-gradient(#af5aebcc, rgba(33,16,16,.8)), url("img/skills-foto.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -332,7 +332,7 @@ animation: progreso1 2s forwards;
             background-color: #fff;
             width: 95%;
             height: 6px;
-            animation: progreso4 2s forwards;
+            animation: progreso4 4s forwards;
             }
 
             /*Creamos la animacion de la barra*/
